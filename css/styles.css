@@ -1,0 +1,34 @@
+
+
+
+body {
+    font-family: "Winky Sans", sans-serif;
+}
+
+
+.logo {
+    color: #2E2F42;
+    font-size: 30px;
+    font-weight: 700;
+    text-decoration: none;
+
+    width: 1440px;
+    height: 72px;
+}
+
+.logo span {
+    color: #4D5AE5;
+}
+
+.logo span:hover {
+    color: red;
+    line-height: 1.5;
+}
+
+.menu .menu-ul .menu-item {
+    margin: 20px;
+}
+
+.menu .menu-ul .menu-item a {
+    color: red;
+}
